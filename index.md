@@ -3,7 +3,8 @@
 I am a student in UQ and I have recently started to use fastai and the purpose of this blog is simply to document my journey.
 
 Welcome!
-![Profile](images/zhou.png)
+
+![Profile](images/zhou.jpg)
 
 # Links
 ## Internal links
