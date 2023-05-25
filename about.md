@@ -1,4 +1,6 @@
 # About
+Halo! I am Kai Chen, 2nd year student in University of Queensland!
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I love playing script kill, gaming and hiking with friends! 
 
+Welcome to my blog.
