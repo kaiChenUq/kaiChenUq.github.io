@@ -8,6 +8,6 @@
 | Learning Rate | The learning rate for t-SNE is usually in the range [10.0, 1000.0]. If the learning rate is too high, the data may look like a 'ball' with any point approximately equidistant from its nearest neighbors. If the learning rate is too low, most points may look compressed in a dense cloud with few outliers. |
 | Max Number of iteration | Usually be at least 250. |
 | Min Grad Form | If the gradient norm is below this threshold, the optimization will be stopped. |
-| metric | The metric to use when calculating distance between instances in a feature array. |
+| Metric | The metric to use when calculating distance between instances in a feature array. |
 | Metric parameters | Additional parameters to pass to the metric function. |
 | Initialization | Initialization of embedding - with common options are 'random' and 'pca'. |
