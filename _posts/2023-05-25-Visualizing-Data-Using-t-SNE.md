@@ -14,9 +14,7 @@ Click [URL: Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80
   *  tree maps
   *  world maps
 *  Now the question is: How to visualize high-dimensional data?
-  *  Simple idea: build a map (distance between points reflect similarifies in the data)
-    *  Similar objects are going to be represented by nearby points.
-    *  Dissimilar objects are going to be represented by distant points.
+  *  Simple idea: build a map (distance between points reflect similarifies in the data): Similar objects are going to be represented by nearby points. + Dissimilar objects are going to be represented by distant points.
   *  Then embed those points in some low dimensional map (e.g. 2D, 3D) -> can be embeded in 2D, 3D maps.
   *  Allow representation by scatter plot.
 
