@@ -2,7 +2,7 @@
 
 Here is an example code snippet for t-SNE in Python: 
 
-```
+```Python
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 
