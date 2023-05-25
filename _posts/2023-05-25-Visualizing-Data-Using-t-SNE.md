@@ -20,7 +20,7 @@ Click [URL: Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80
   *  Then embed those points in some low dimensional map (e.g. 2D, 3D) -> can be embeded in 2D, 3D maps.
   *  Allow representation by scatter plot.
 
-![Map from high D to low D](../images/tSNE-introduction-map.png)
+![../images/tSNE-introduction-map.png](https://github.com/kaiChenUq/kaiChenUq.github.io/blob/master/images/tSNE-introduction-map.png)
 
 
 
