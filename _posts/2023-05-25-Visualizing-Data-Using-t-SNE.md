@@ -19,3 +19,7 @@ Click [URL: Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80
   *  Allow representation by scatter plot.
 
 ![Map from high D to low D](../images/tSNE-introduction-map.png)
+
+
+
+
