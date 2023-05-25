@@ -5,4 +5,4 @@ I love playing script kill, gaming and hiking with friends!
 
 Welcome to my blog.
 
-(Good scene)[images/test0.png]
+![Good scene](images/test0.png)
