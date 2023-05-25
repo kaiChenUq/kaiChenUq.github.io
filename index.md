@@ -7,9 +7,4 @@ Welcome!
 ![Profile](images/zhou.jpg)
 
 # Links
-## Internal links
-* [Visualizing Data Using t-SNE](posts/Visualizing-Data-Using-t-SNE.md)
-
-
-## External links
 * [link to fast.ai](https://www.fast.ai)
