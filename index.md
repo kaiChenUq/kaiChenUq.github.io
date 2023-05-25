@@ -8,7 +8,7 @@ Welcome!
 
 # Links
 ## Internal links
-* [Visualizing Data Using t-SNE](posts/Visualizing Data Using t-SNE.md)
+* [Visualizing Data Using t-SNE](posts/Visualizing-Data-Using-t-SNE.md)
 
 
 ## External links
