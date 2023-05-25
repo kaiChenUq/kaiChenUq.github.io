@@ -1,6 +1,8 @@
 
 # Visualizing Data Using t-SNE
 
+> t-distributed stochastic neighbor embedding (t-SNE) is a statistical method for visualizing high-dimensional data by giving each datapoint a location in a two or three-dimensional map. It is based on Stochastic Neighbor Embedding, and its name is due to being t-distributed variant. It is a nonlinear dimensionality reduction technique for embedding high-dimensional data for visualization in a low-dimensional space of two or three dimensions. Specifically, it models each high-dimensional object by a 2D or 3D point in such a way that similar objects are modeled by nearby points and dissimilar objects are modeled by distant points with high probability.
+
 ## Course link
 Click [URL: Visualizing Data Using t-SNE](https://www.youtube.com/watch?v=RJVL80Gg3lA)
 
