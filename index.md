@@ -1,7 +1,13 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+# Blog
+I am a student in UQ and I have recently started to use fastai and the purpose of this blog is simply to document my journey.
 
-## This is a title
+Welcome!
+![Profile](images/zhou.png)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+# Links
+## Internal links
+
+
+## External links
+* [link to fast.ai](https://www.fast.ai)
